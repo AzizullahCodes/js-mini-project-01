@@ -14,3 +14,15 @@ var transportCost = 200 ;
 var totalExpenses = breakfastCost + lunchCost + dinnerCost + transportCost + transportCost ;
 console.log(totalExpenses);
 alert(" Breakfast : " + breakfastCost + "\n" + " Lunch : " + lunchCost + "\n" + " Dinner : " + dinnerCost + "\n" + " Transport : " + transportCost + "\n" + "------------------" + "\n" + " Total Expense : " + totalExpenses + " PKR ");
+
+// project 04
+var myName = "Azizullah";
+var myTeacherName = "Shahzad Ahmad";
+var myCourseName = "Web & Mobile App Development";
+var myInstituteName = "SMIT";
+var myCouseDuration = "1-Year";
+var myClassTiming = "9am-11am";
+alert(" My Name : " + myName + "\n" + " My Teacher Name : " + myTeacherName + "\n" + " My Course Name : " + myCourseName + "\n"
+    + " My Institute Name : " + myInstituteName + " My Course Duration : " + myCouseDuration + "\n"
+     + " My Class Timing : " + myClassTiming
+);
